@@ -1,4 +1,0 @@
-repository "Finn/flappyBirdYT@4674150996013@cloud"
-  path "/"
-    br "/main"
-    co "/main"
